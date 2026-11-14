@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codigos-averia.github.io/sitemap.xml
